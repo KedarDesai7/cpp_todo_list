@@ -1,0 +1,1 @@
+rdobj.rdComp();
