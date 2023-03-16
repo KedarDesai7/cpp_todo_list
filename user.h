@@ -12,7 +12,7 @@ public:
     int mainMenu();
     
     //to give option to view task
-    int addTaskMenu();
+    //int addTaskMenu();
 
     //to select the choice of view pending or complete task
     int viewTaskMenu();
@@ -21,7 +21,7 @@ public:
     int viewPendingTaskMenu();
     
     //shown after complete task to give option add task ,mark task pending,exit
-    int compTask();
+    //int compTask();
 
 };
 
